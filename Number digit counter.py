@@ -1,0 +1,6 @@
+n = int(input("Enter a number broski 👺👺👺👺👺: "))
+c = 0
+while n>0:
+    n = n //10
+    c = c+1
+    print("The number of digits in the number is/are 😊😊😊: ",c)
